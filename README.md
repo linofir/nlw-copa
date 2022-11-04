@@ -18,9 +18,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="nlw-copa" src=".github/project.jpeg" width="100%">
+  <img alt="nlw-copa" src=".github/project.jpg" width="100%">
 </p>
-
+git add
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
